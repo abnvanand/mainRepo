@@ -1,3 +1,7 @@
 [submodule "clientApp"]
 	path = clientApp
 	url = https://github.com/abnvanand/clientApp
+[submodule "client"]
+	path = client
+	url = https://github.com/abnvanand/clientApp.git
+	branch = master
